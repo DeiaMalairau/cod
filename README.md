@@ -4,7 +4,7 @@ echo "<h1>-----Practică-----</h1>";
 
 //Ex1
 
-echo "<h4>Exercițiul 1</h4>";
+ echo "<h4>Exercițiul 1</h4>";
   $arr = array (2, 4, 5, 7, 8, 9, 10);
    print_r($arr);
 
